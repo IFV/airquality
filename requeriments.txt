@@ -1,0 +1,4 @@
+python==v3.9.7
+pandas==v1.3.4
+streamlit==v1.2.0
+
